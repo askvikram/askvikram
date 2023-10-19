@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Archivo Italic'), local('Archivo-Italic'), url(https://fonts.gstatic.com/s/archivo/v6/k3kSo8UDI-1M0wlSfdzYImHB.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Archivo SemiBold Italic'), local('Archivo-SemiBoldItalic'), url(https://fonts.gstatic.com/s/archivo/v6/k3kXo8UDI-1M0wlSfdzQ80XRIIKN.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Archivo Bold Italic'), local('Archivo-BoldItalic'), url(https://fonts.gstatic.com/s/archivo/v6/k3kXo8UDI-1M0wlSfdzQl0TRIIKN.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Archivo Regular'), local('Archivo-Regular'), url(https://fonts.gstatic.com/s/archivo/v6/k3kQo8UDI-1M0wlSfdfoKw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Archivo SemiBold'), local('Archivo-SemiBold'), url(https://fonts.gstatic.com/s/archivo/v6/k3kVo8UDI-1M0wlSdQbMO0jhKQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Archivo Bold'), local('Archivo-Bold'), url(https://fonts.gstatic.com/s/archivo/v6/k3kVo8UDI-1M0wlSdWLNO0jhKQ.ttf) format('truetype');
+}
